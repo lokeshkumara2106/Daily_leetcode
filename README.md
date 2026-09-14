@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
