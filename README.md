@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/0022-generate-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lokeshkumara2106/Daily_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
